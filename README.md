@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá. Bem-vindo ao meu GitHub! 👋
 
-<!--
+
 **lucas-almeida-1/lucas-almeida-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Estou graduando em: Engenharia de Computação
+- 🌱 Estou aprendendo atualmente: Computação Gráfica
+<!--- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...-->
+- 💬 Fale comigo sobre: jogos, tecnologia, inteligência artificial, programação etc
+- 📫 Instagram: lucas.almeida.1
+- 😄 Pronomes: Ele/dele
+- ⚡ Fun fact: **Ler mais...**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Avatar pensativo](https://github.com/lucas-almeida-1/lucas-almeida-1/assets/109558965/41f5b334-dadd-4a64-82ac-d4638b647117)
+
+
