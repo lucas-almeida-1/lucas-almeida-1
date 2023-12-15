@@ -10,7 +10,7 @@
 - 💬 Fale comigo sobre: jogos, tecnologia, inteligência artificial, programação etc
 - 📫 Instagram: lucas.almeida.1
 - 😄 Pronomes: Ele/dele
-- ⚡ Fun fact: **Ler mais...**
+- ⚡ Curiosidade: Fanático de Hollow Knight
 
 ![Avatar pensativo](https://github.com/lucas-almeida-1/lucas-almeida-1/assets/109558965/41f5b334-dadd-4a64-82ac-d4638b647117)
 
