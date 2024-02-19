@@ -4,7 +4,7 @@
 **lucas-almeida-1/lucas-almeida-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Estou graduando em: Engenharia de Computação
-- 🌱 Estou aprendendo atualmente: Computação Gráfica
+- 🌱 Estou aprendendo atualmente: Desenvolvimento Web
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Fale comigo sobre: jogos, tecnologia, inteligência artificial, programação etc
