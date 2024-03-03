@@ -4,7 +4,7 @@
 ### Estudando e evoluindo em:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,flutter,threejs" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,threejs,html,css,js,flutter" />
   </a>
 </p>
 
