@@ -1,7 +1,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=70&duration=4000&pause=1000&color=40F72C&center=true&vCenter=true&random=false&width=1100&height=100&lines=Hello%2C+I'm+Lucas+Almeida;I'm+a+Computer+Engineer+Student+at+UFBA;I+love+technology%2C+programming%2C+games%2C+A.I.+etc;Nice+to+meet+you!)](https://git.io/typing-svg)
 
+<div align="center">
+<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://streak-stats.demolab.com?user=lucas-almeida-1&theme=transparent&background=45%2C2917B857%2C00000074" alt="GitHub Streak">
+</div>
+
 ### Estudando e evoluindo em:
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,threejs,html,css,js,flutter" />
