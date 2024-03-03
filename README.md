@@ -8,6 +8,8 @@
   </a>
 </p>
 
+<br>
+
 <h3 align="right">Ferramentas que uso ao programar:</h3>
 
 <p align="right">
@@ -15,6 +17,8 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,discord" />
   </a>
 </p>
+
+<br>
 
 <div align="center">
 <a href="https://github.com/lucas-almeida-1/lucas-almeida-1/assets/109558965/41f5b334-dadd-4a64-82ac-d4638b647117" target="Avatar pensativo"><img src="https://github.com/lucas-almeida-1/lucas-almeida-1/assets/109558965/41f5b334-dadd-4a64-82ac-d4638b647117"</a>
