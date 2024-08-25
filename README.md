@@ -5,11 +5,14 @@
 <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://streak-stats.demolab.com?user=lucas-almeida-1&theme=transparent&background=45%2C2917B857%2C00000074" alt="GitHub Streak">
 </div>
 
-### Estudando e evoluindo em:
+### <div><img src="https://github.com/user-attachments/assets/b4567a73-8d99-4be1-81bb-a3c826446a81" alt="computer-cat" width="60" height="35"> Estudando e evoluindo em:</div>
+
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,threejs,html,css,js,flutter" />
+    <img src="https://skillicons.dev/icons?i=md,cpp,python,java,cs,ruby" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,threejs,dart,flutter" />
   </a>
 </p>
 
@@ -19,13 +22,15 @@
 
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,discord" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,unity" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=idea,devto,stackoverflow,discord,notion,figma" />
   </a>
 </p>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/lucas-almeida-1/lucas-almeida-1/assets/109558965/41f5b334-dadd-4a64-82ac-d4638b647117" target="Avatar pensativo"><img src="https://github.com/lucas-almeida-1/lucas-almeida-1/assets/109558965/41f5b334-dadd-4a64-82ac-d4638b647117"</a>
+<img src="https://github.com/user-attachments/assets/ece7c838-9da9-4326-8396-c33b9e6a1649" alt="avatar" width="320" height="180"</a>
 </div>
 
