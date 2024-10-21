@@ -18,7 +18,9 @@
 
 <br>
 
-<h3 align="right">Ferramentas que uso ao programar:</h3>
+
+### <div align="right"><img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" alt="Gif de um pato amarelo com um óculos preto trabalhando num notebook" width="45" height="45"> Ferramentas que uso ao programar:</div>
+
 
 <p align="right">
   <a href="https://skillicons.dev">
