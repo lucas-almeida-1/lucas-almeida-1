@@ -36,3 +36,10 @@
 <img src="https://github.com/user-attachments/assets/ece7c838-9da9-4326-8396-c33b9e6a1649" alt="avatar" width="320" height="180"</a>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-almeida-1/lucas-almeida-1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-almeida-1/lucas-almeida-1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucas-almeida-1/lucas-almeida-1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
