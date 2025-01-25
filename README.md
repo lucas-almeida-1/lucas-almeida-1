@@ -24,9 +24,9 @@
 
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,unity" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,unity,blender" />
     <br>
-    <img src="https://skillicons.dev/icons?i=idea,devto,stackoverflow,discord,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=idea,devto,stackoverflow,discord,notion,figma,postgresql" />
   </a>
 </p>
 
