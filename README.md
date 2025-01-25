@@ -32,9 +32,11 @@
 
 <br>
 
+<!--
 <div align="center">
-<img src="https://github.com/user-attachments/assets/ece7c838-9da9-4326-8396-c33b9e6a1649" alt="avatar" width="320" height="180"</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-almeida-1" alt="activity graph of lucas-almeida-1 github profile" width="640">
 </div>
+-->
 
 <div align="center">
   <picture>
@@ -42,4 +44,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-almeida-1/lucas-almeida-1/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucas-almeida-1/lucas-almeida-1/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ece7c838-9da9-4326-8396-c33b9e6a1649" alt="avatar" width="320" height="180"</a>
 </div>
