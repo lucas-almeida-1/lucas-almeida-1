@@ -10,9 +10,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,cpp,python,java,cs,ruby" />
+    <img src="https://skillicons.dev/icons?i=md,cpp,python,java,cs,ruby,react" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,threejs,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,threejs,flask,dart,flutter" />
   </a>
 </p>
 
